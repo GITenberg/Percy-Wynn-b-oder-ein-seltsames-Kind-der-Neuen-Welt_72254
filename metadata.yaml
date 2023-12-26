@@ -1,0 +1,28 @@
+_repo: Percy-Wynn-b-oder-ein-seltsames-Kind-der-Neuen-Welt_72254
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finn, Franz
+    gutenberg_agent_id: '56617'
+    url: http://www.gutenberg.org/2009/agents/56617
+  editor:
+    agent_name: Betten, Franz
+    gutenberg_agent_id: '56618'
+    url: http://www.gutenberg.org/2009/agents/56618
+description: ''
+gutenberg_issued: '2023-11-28'
+identifiers:
+  gutenberg: '72254'
+language: de
+pgterms:marc905: 20180127025026finn
+pgterms:marc906: '1897'
+pgterms:marc907: de
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aMainz :$bVerlag von Franz Kirchheim, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Percy Wynn : $b oder ein seltsames Kind der Neuen Welt.'
+url: http://www.gutenberg.org/ebooks/72254
